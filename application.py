@@ -1,0 +1,3 @@
+def bonjour ():
+	return "bonjour"
+	
